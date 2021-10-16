@@ -5,6 +5,8 @@ I use she/her pronouns!
 
 ### Currently, I'm learning:
   Lua
+  
   C
+  
   Music composition
 
