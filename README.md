@@ -4,7 +4,7 @@
 - I use she/her pronouns!
 
 ### Currently, I'm learning:
-  - Lua
-  - C  
+  - C++
   - Music composition
+  - 3D animation
 
